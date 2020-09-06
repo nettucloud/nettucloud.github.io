@@ -9,4 +9,4 @@ intro_image_hide_on_mobile: false
 
 # Meet The Team
 
-Our team of qualified security and software developemnt professionals can help your business at any stage of it's growth.
+Our team of qualified security and software development professionals can help your business at any stage of it's growth.
